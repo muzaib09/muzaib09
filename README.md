@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muzaib Jan
+# 👋 Hi, I'm Muhammad Muzaib 
 
 ## 💻 Frontend Developer | JavaScript Learner | Web Enthusiast
 
