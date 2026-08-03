@@ -85,17 +85,17 @@ Modern Portfolio showcasing my skills and projects.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/muzaib09">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/muzaib09" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-muzaib-a67b96411">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/muhammad-muzaib-a67b96411" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-  <a href="https://muzaib09.github.io">
-    <img src="https://skillicons.dev/icons?i=githubpages" />
+  <a href="https://muzaib09.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:muzaib.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
