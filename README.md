@@ -82,32 +82,21 @@ Modern Portfolio showcasing my skills and projects.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/muzaib09">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/muhammad-muzaib-a67b96411">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://muzaib09.github.io">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:muzaib.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/muzaib09">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-muzaib-a67b96411">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://muzaib09.github.io">
+    <img src="https://skillicons.dev/icons?i=githubpages" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 - 📧 **Email:** muzaib.dev@gmail.com
