@@ -1,117 +1,131 @@
+<!-- ========================= HEADER ========================= -->
+
 <div align="center">
 
 # 👋 Hi, I'm Muhammad Muzaib
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+Learner;HTML+%7C+CSS+%7C+JavaScript;Future+Full+Stack+Developer;Always+Learning+New+Things+🚀" />
+### 🚀 Frontend Developer | JavaScript Developer
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=muzaib09&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/muzaib09?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/muzaib09?style=for-the-badge&logo=github" />
-</p>
+**Building modern, responsive and interactive web experiences with clean code.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Developer;API+Integration+Enthusiast;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
+
+<br>
+
+\
+
+<br><br>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-- 💻 Frontend Developer
-- 🌱 Currently learning **JavaScript**
-- 🎯 Goal: Become a **Full Stack Web Developer**
-- 🚀 Passionate about building modern, responsive websites.
-- 📚 Always learning new technologies.
+I'm **Muhammad Muzaib**, a passionate **Frontend Developer** focused on creating modern and user-friendly web applications.
 
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
-
-</p>
+* 💻 Currently focused on **Frontend Development**
+* ⚡ Working with **JavaScript & Advanced JavaScript**
+* 🌐 Building projects using **APIs**
+* 🛠️ Using **Git & GitHub** for version control
+* 📚 Continuously learning and improving my development skills
+* 🎯 Goal: Build professional, real-world web applications
+* 🚀 Portfolio: **[protfolio-muzaib.vercel.app](https://protfolio-muzaib.vercel.app)**
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muzaib09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### Frontend
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaib09&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-</p>
+### Tools & Technologies
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 
-# 🔥 GitHub Streak
+### Currently Working With
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=js,api" />
 
-<img src="https://streak-stats.demolab.com?user=muzaib09&theme=tokyonight&hide_border=true" />
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<p align="center">
+| Project                   | Description                                                                         |
+| ------------------------- | ----------------------------------------------------------------------------------- |
+| 🌦️ **Weather App**       | Weather application using API integration to display real-time weather information. |
+| 🧮 **Calculator**         | Interactive calculator built with HTML, CSS and JavaScript.                         |
+| 🛒 **E-Commerce Website** | Modern shopping website with API-based products, cart functionality and dynamic UI. |
+| 💼 **Portfolio Website**  | Personal developer portfolio showcasing my skills, projects and experience.         |
+| ✅ **Todo App**            | Task management application with interactive JavaScript functionality.              |
 
-<img src="https://github-profile-trophy.vercel.app/?username=muzaib09&theme=tokyonight&no-frame=true&row=1&column=6" />
+### 🔗 Explore My Projects
 
-</p>
+<div align="center">
+
+</div>
 
 ---
 
-# 📌 Featured Projects
+## 📊 GitHub Statistics
 
-### 📝 To-Do App
-- Add Tasks
-- Edit Tasks
-- Delete Tasks
-- Local Storage
+<div align="center">
 
-### 🧮 Calculator
-Responsive Calculator using HTML, CSS & JavaScript.
+<img src="https://github-readme-stats.vercel.app/api?username=muzaib09&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
 
-### 🌐 Portfolio Website
-Modern Portfolio showcasing my skills and projects.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaib09&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=muzaib09&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=muzaib09&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/muzaib09" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-muzaib-a67b96411" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-  <a href="https://muzaib09.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:muzaib.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-- 📧 **Email:** muzaib.dev@gmail.com
-- 🌐 **Portfolio:** https://muzaib09.github.io
-- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-muzaib-a67b96411
-- 🐙 **GitHub:** https://github.com/muzaib09
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for Visiting!
+### 💡 "Code. Create. Learn. Repeat."
 
-If you like my work, don't forget to ⭐ my repositories.
-
-🚀 Happy Coding!
+⭐ **Thanks for visiting my profile!**
 
 </div>
