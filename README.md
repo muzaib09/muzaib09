@@ -1,42 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:C9A227&height=240&section=header&text=Muhammad%20Muzaib&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Frontend%20Developer%20%7C%20JavaScript%20Developer&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111111,75:8A6A16,100:C9A227&height=260&section=header&text=Muhammad%20Muzaib&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20Developer%20%7C%20JavaScript%20Developer&descAlignY=56&descSize=20&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=C9A227&center=true&vCenter=true&width=750&lines=Frontend+Developer;JavaScript+Developer;Building+Modern+Web+Experiences;API+Integration+%7C+Advanced+JavaScript;Turning+Ideas+Into+Interactive+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=C9A227&center=true&vCenter=true&width=850&lines=Frontend+Developer;JavaScript+Developer;Building+Modern+Web+Experiences;API+Integration+%7C+Advanced+JavaScript;Turning+Ideas+Into+Interactive+Projects" />
 
 <br><br>
 
 <a href="https://protfolio-muzaib.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-C9A227?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20PORTFOLIO-C9A227?style=for-the-badge&labelColor=111111"/>
 </a>
 &nbsp;
 <a href="https://github.com/muzaib09">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 &nbsp;
-<a href="www.linkedin.com/in/muhammad-muzaib-a67b96411">
+<a href="https://www.linkedin.com/in/muhammad-muzaib-a67b96411">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=muzaib09&label=PROFILE%20VIEWS&color=C9A227&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=muzaib09&label=PROFILE%20VIEWS&color=C9A227&style=for-the-badge&labelColor=111111"/>
 
 </div>
 
 ---
 
-## 🖤 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Hi, I'm **Muhammad Muzaib** — a passionate **Frontend Developer** focused on building modern, responsive and interactive web experiences.
+I'm **Muhammad Muzaib**, a passionate **Frontend Developer** focused on creating modern, responsive and interactive web experiences.
 
-I enjoy turning ideas into functional websites and applications using **HTML, CSS and JavaScript**, while continuously improving my development skills.
+I enjoy transforming ideas into functional web applications using **HTML, CSS and JavaScript**, while continuously exploring better ways to build clean and engaging user interfaces.
 
-### ⚡ Currently Focused On
+### ✨ What I'm Focused On
 
 * 🚀 Frontend Development
 * ⚡ JavaScript & Advanced JavaScript
@@ -45,47 +45,79 @@ I enjoy turning ideas into functional websites and applications using **HTML, CS
 * 💾 LocalStorage & Client-Side Applications
 * 🔧 Git & GitHub
 * 📚 Continuous Learning
-* 🎯 Long-term goal: **Full-Stack Development**
+* 🎯 Growing toward Full-Stack Development
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-### 🌐 Frontend
+### 💻 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-<br><br>
-
-### 🛠️ Tools & Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
 <br><br>
 
-### 🔗 Technologies
+### 🛠️ Tools
 
-<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+
+<br><br>
+
+### 🔗 Other Technologies
+
+<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=C9A227"/>
 <img src="https://img.shields.io/badge/LocalStorage-111111?style=for-the-badge&logo=googlechrome&logoColor=C9A227"/>
 <img src="https://img.shields.io/badge/Responsive%20Design-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/DOM%20Manipulation-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 </div>
 
 ---
 
-## 🧠 What I Build
+## 🧠 What I Do
 
 <div align="center">
 
-|      🌐 Web Apps      |     ⚡ JavaScript     |      🔗 APIs      |
-| :-------------------: | :------------------: | :---------------: |
-| Responsive Interfaces |   DOM Manipulation   |    Dynamic Data   |
-|       Modern UI       | Interactive Features |  API Integration  |
-|    User-Friendly UX   |      Advanced JS     | Real-Time Content |
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌐 Web Development
+
+Responsive Interfaces
+Modern UI
+Clean Layouts
+Interactive Websites
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡ JavaScript
+
+DOM Manipulation
+Dynamic Applications
+Advanced JavaScript
+Client-Side Logic
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔗 API Integration
+
+REST APIs
+Dynamic Data
+Fetch API
+Real-Time Content
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -95,33 +127,33 @@ I enjoy turning ideas into functional websites and applications using **HTML, CS
 
 <div align="center">
 
-| Project                   | Description                                                 | Technologies                         |
-| :------------------------ | :---------------------------------------------------------- | :----------------------------------- |
-| 🌦️ **Weather App**       | Real-time weather application using API integration         | HTML • CSS • JS • API                |
-| 🛒 **E-Commerce Website** | Dynamic products, cart system and API integration           | HTML • CSS • JS • API • LocalStorage |
-| 💼 **Portfolio**          | Personal developer portfolio showcasing skills and projects | HTML • CSS • JS                      |
-| 📝 **Todo App**           | Interactive task management application                     | HTML • CSS • JS • LocalStorage       |
-| 🧮 **Calculator**         | Responsive JavaScript calculator                            | HTML • CSS • JS                      |
-| 🎮 **Tic Tac Toe**        | Interactive browser-based game                              | HTML • CSS • JS                      |
-| 💰 **Budget Calculator**  | Simple personal budget management application               | HTML • CSS • JS                      |
+| 🚀 Project                 | 📌 Description                                      | 🛠️ Stack             |
+| :------------------------- | :-------------------------------------------------- | :-------------------- |
+| 🌦️ **Weather App**        | Real-time weather information using API integration | HTML • CSS • JS • API |
+| 🛒 **E-Commerce Website**  | Dynamic products, cart system and API integration   | HTML • CSS • JS • API |
+| 💼 **Developer Portfolio** | Personal portfolio showcasing skills and projects   | HTML • CSS • JS       |
+| 📝 **Todo App**            | Task management with LocalStorage                   | HTML • CSS • JS       |
+| 🧮 **Calculator**          | Responsive JavaScript calculator                    | HTML • CSS • JS       |
+| 🎮 **Tic Tac Toe**         | Interactive browser-based game                      | HTML • CSS • JS       |
+| 💰 **Budget Calculator**   | Personal budget management application              | HTML • CSS • JS       |
 
 </div>
 
 ---
 
-## 🌐 Portfolio
+## 🌐 My Portfolio
 
 <div align="center">
 
 <a href="https://protfolio-muzaib.vercel.app">
 
-<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-C9A227?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/%E2%9C%A8%20EXPLORE%20MY%20PORTFOLIO-C9A227?style=for-the-badge&labelColor=111111"/>
 
 </a>
 
 <br><br>
 
-<i>Designing interfaces. Building experiences. Learning every day.</i>
+> **Designing interfaces. Building experiences. Learning every day.**
 
 </div>
 
@@ -131,13 +163,13 @@ I enjoy turning ideas into functional websites and applications using **HTML, CS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muzaib09&show_icons=true&theme=github_dark&hide_border=true&bg_color=111111&title_color=C9A227&icon_color=C9A227&text_color=FFFFFF&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muzaib09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=C9A227&icon_color=C9A227&text_color=FFFFFF&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaib09&layout=compact&theme=github_dark&hide_border=true&bg_color=111111&title_color=C9A227&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaib09&layout=compact&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=FFFFFF" height="180"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=muzaib09&theme=dark&hide_border=true&background=111111&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=FFFFFF&dates=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=muzaib09&theme=dark&hide_border=true&background=0D0D0D&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=FFFFFF&dates=AAAAAA"/>
 
 </div>
 
@@ -157,7 +189,7 @@ I enjoy turning ideas into functional websites and applications using **HTML, CS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzaib09&bg_color=111111&color=C9A227&line=C9A227&point=FFFFFF&area=true&hide_border=true&custom_title=Muhammad%20Muzaib%27s%20Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzaib09&bg_color=0D0D0D&color=C9A227&line=C9A227&point=FFFFFF&area=true&hide_border=true&custom_title=Muhammad%20Muzaib%27s%20Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -177,7 +209,7 @@ I enjoy turning ideas into functional websites and applications using **HTML, CS
 
 <div align="center">
 
-<a href="www.linkedin.com/in/muhammad-muzaib-a67b96411">
+<a href="https://www.linkedin.com/in/muhammad-muzaib-a67b96411">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
@@ -191,16 +223,16 @@ I enjoy turning ideas into functional websites and applications using **HTML, CS
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,50:111111,100:000000&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,45:111111,100:050505&height=150&section=footer" width="100%"/>
 
 ### ⚡ Code • Create • Learn • Repeat
 
 **Thanks for visiting my profile!**
 
-⭐ Feel free to explore my repositories and projects.
+⭐ Explore my repositories and projects.
 
 </div>
