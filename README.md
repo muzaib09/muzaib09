@@ -1,185 +1,79 @@
+# 👋 Hi, I'm Muhammad Muzaib
+
+<!-- Animated Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111111,75:8A6A16,100:C9A227&height=260&section=header&text=Muhammad%20Muzaib&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20Developer%20%7C%20JavaScript%20Developer&descAlignY=56&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=220&section=header&text=Muhammad%20Muzaib&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20" width="100%" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Building+Modern+Web+Experiences+%E2%9C%A8;React+%7C+JavaScript+%7C+TypeScript;Turning+Ideas+Into+Reality+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=C9A227&center=true&vCenter=true&width=850&lines=Frontend+Developer;JavaScript+Developer;Building+Modern+Web+Experiences;API+Integration+%7C+Advanced+JavaScript;Turning+Ideas+Into+Interactive+Projects" />
+<br/>
 
-<br><br>
-
-<a href="https://protfolio-muzaib.vercel.app">
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20PORTFOLIO-C9A227?style=for-the-badge&labelColor=111111"/>
-</a>
-&nbsp;
-<a href="https://github.com/muzaib09">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-muzaib-a67b96411">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=muzaib09&label=PROFILE%20VIEWS&color=C9A227&style=for-the-badge&labelColor=111111"/>
+[![GitHub](https://img.shields.io/badge/GitHub-muzaib09-181717?style=for-the-badge&logo=github)](https://github.com/muzaib09)
+[![Location](https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+I'm a **Frontend Developer** passionate about building modern web applications and creating beautiful, user-friendly digital experiences.
 
-I'm **Muhammad Muzaib**, a passionate **Frontend Developer** focused on creating modern, responsive and interactive web experiences.
-
-I enjoy transforming ideas into functional web applications using **HTML, CSS and JavaScript**, while continuously exploring better ways to build clean and engaging user interfaces.
-
-### ✨ What I'm Focused On
-
-* 🚀 Frontend Development
-* ⚡ JavaScript & Advanced JavaScript
-* 🌐 REST APIs & Dynamic Data
-* 🎨 Modern UI / UX
-* 💾 LocalStorage & Client-Side Applications
-* 🔧 Git & GitHub
-* 📚 Continuous Learning
-* 🎯 Growing toward Full-Stack Development
-
-<br clear="right"/>
+- 💻 Focused on Frontend Development
+- 🌱 Currently learning advanced React and TypeScript
+- 🔭 Interested in building real-world web applications
+- 🎯 Goal: Build modern, scalable and interactive applications
+- ⚡ Fun fact: I love turning ideas into code!
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Frontend
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
 
-<br><br>
+### Backend & Database
 
-### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=supabase" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+### Tools & Platforms
 
-<br><br>
-
-### 🔗 Other Technologies
-
-<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=C9A227"/>
-<img src="https://img.shields.io/badge/LocalStorage-111111?style=for-the-badge&logo=googlechrome&logoColor=C9A227"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/DOM%20Manipulation-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 
 </div>
 
 ---
 
-## 🧠 What I Do
+## 💼 Featured Projects
 
-<div align="center">
+| Project | Description | Technologies |
+|:---|:---|:---|
+| 📦 **StackFlow** | Inventory Management System | Supabase |
+| 💬 **Orbit Message** | Real-Time Messaging Application | JavaScript, Supabase |
+| 📁 **File Uploader** | File Uploading with Database Integration | JavaScript, Database |
+| 🏢 **HCM Lite** | Saylani IT Hackathon Project | HTML, CSS, JavaScript |
+| 🛒 **Shopping Website** | E-commerce Website with Database | JavaScript, Database |
+| 🌐 **Portfolio** | Personal Portfolio Website | HTML, CSS, JavaScript |
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🌐 Web Development
-
-Responsive Interfaces
-Modern UI
-Clean Layouts
-Interactive Websites
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚡ JavaScript
-
-DOM Manipulation
-Dynamic Applications
-Advanced JavaScript
-Client-Side Logic
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔗 API Integration
-
-REST APIs
-Dynamic Data
-Fetch API
-Real-Time Content
-
-</td>
-</tr>
-</table>
-
-</div>
+> Replace the repository links below when your project URLs are ready.
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Statistics
 
 <div align="center">
 
-| 🚀 Project                 | 📌 Description                                      | 🛠️ Stack             |
-| :------------------------- | :-------------------------------------------------- | :-------------------- |
-| 🌦️ **Weather App**        | Real-time weather information using API integration | HTML • CSS • JS • API |
-| 🛒 **E-Commerce Website**  | Dynamic products, cart system and API integration   | HTML • CSS • JS • API |
-| 💼 **Developer Portfolio** | Personal portfolio showcasing skills and projects   | HTML • CSS • JS       |
-| 📝 **Todo App**            | Task management with LocalStorage                   | HTML • CSS • JS       |
-| 🧮 **Calculator**          | Responsive JavaScript calculator                    | HTML • CSS • JS       |
-| 🎮 **Tic Tac Toe**         | Interactive browser-based game                      | HTML • CSS • JS       |
-| 💰 **Budget Calculator**   | Personal budget management application              | HTML • CSS • JS       |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muzaib09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=FFFFFF" />
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaib09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" />
 
----
+<br/><br/>
 
-## 🌐 My Portfolio
-
-<div align="center">
-
-<a href="https://protfolio-muzaib.vercel.app">
-
-<img src="https://img.shields.io/badge/%E2%9C%A8%20EXPLORE%20MY%20PORTFOLIO-C9A227?style=for-the-badge&labelColor=111111"/>
-
-</a>
-
-<br><br>
-
-> **Designing interfaces. Building experiences. Learning every day.**
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muzaib09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=C9A227&icon_color=C9A227&text_color=FFFFFF&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaib09&layout=compact&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=C9A227&text_color=FFFFFF" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=muzaib09&theme=dark&hide_border=true&background=0D0D0D&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=FFFFFF&dates=AAAAAA"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muzaib09&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=muzaib09&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=FFFFFF" />
 
 </div>
 
@@ -189,50 +83,64 @@ Real-Time Content
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzaib09&bg_color=0D0D0D&color=C9A227&line=C9A227&point=FFFFFF&area=true&hide_border=true&custom_title=Muhammad%20Muzaib%27s%20Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzaib09&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/muzaib09/muzaib09/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=muzaib09&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhammad-muzaib-a67b96411">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://protfolio-muzaib.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-C9A227?style=for-the-badge&logo=vercel&logoColor=000000"/>
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://github.com/muzaib09">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<a href="YOUR_FACEBOOK_URL">
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
 
-<br><br>
+---
+
+## 👀 Profile Visitors
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,45:111111,100:050505&height=150&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=muzaib09&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
 
-### ⚡ Code • Create • Learn • Repeat
+<img src="https://visitor-badge.laobi.icu/badge?page_id=muzaib09.muzaib09&left_color=0D1117&right_color=2563EB" />
 
-**Thanks for visiting my profile!**
+</div>
 
-⭐ Explore my repositories and projects.
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Let's build something amazing together! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" />
 
 </div>
